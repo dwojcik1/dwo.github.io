@@ -29,13 +29,13 @@
       "url": "https://cbkpan.pl/en/",
       "startDate": "2022-03-01",
       "endDate": "2025-05-01",
-      "summary": "PhD Thesis",
-      "highlights": ["Turbulence Analysis in near-Earth Space Environment."]
+      "summary": "PhD Thesis: Turbulence Analysis in near-Earth Space Environment.",
+      "highlights": ["Turbulence"]
     }
   ],
   "education": [
     {
-      "institution": "Warsaw University of Technology, Poland",
+      "institution": "Warsaw University of Technology, ",
       "location": "Warsaw, Poland",
       "url": "https://ww2.mini.pw.edu.pl",
       "area": "Mathematics (Insurance & Finance)",
@@ -43,18 +43,7 @@
       "startDate": "2019-10-01",
       "endDate": "2021-12-01",
       "score": "4",
-      "courses": ["Insurance Modeling in the Cyber Security Area."]
-    },
-    {
-      "institution": "Cardinal Stefan Wyszyński University,",
-      "location": "Warsaw, Poland",
-      "url": "https://wmp.uksw.edu.pl",
-      "area": "Mathematics (Economy)",
-      "studyType": "MSc",
-      "startDate": "2019-10-01",
-      "endDate": "2020-12-01",
-      "score": "5",
-      "courses": ["Stability Analysis of the Generalized Lorenz System."]
+      "courses": ["Cybersecurity"]
     }
   ],
   "certificates": [
